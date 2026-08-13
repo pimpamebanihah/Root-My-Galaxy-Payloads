@@ -177,6 +177,26 @@
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
         "size": 4758872
       }
+    },
+    {
+      "payloadId": "sm-s921e-snapdragon-cze1",
+      "displayName": "Galaxy S24 (SM-S921E) - Snapdragon CZE1",
+      "models": ["SM-S921E", "SM-S921E/DS"],
+      "kernelVersions": ["6.1.145"],
+      "requiresFreshP0Session": true,
+      "exploit": {
+        "url": "https://githubusercontent.com/pimpamebanihah/e0ab6c26a4c498f3e132c4701759fe3d/raw/cve-2026-43499-app.so",
+        "size": 123720
+      },
+      "kernelsu": {
+        "url": "https://githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-s25u-kdp",
+        "size": 6407096
+      }
     }
   ]
 }
+
+    
+  
+
+

@@ -190,6 +190,21 @@
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/pimpamebanihah/Root-My-Galaxy-Payloads/main/kernelsu/ksud_custom",
         "size": 4803112
+       }
+    },
+    {
+      "payloadId": "e3q-S921EXXS3CZE1-custom",
+      "displayName": "Galaxy S24 (India Snapdragon) | Custom Kernel 6.1.145",
+      "models": ["SM-S921E"],
+      "kernelVersions": ["6.1.145"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/pimpamebanihah/Root-My-Galaxy-Payloads/main/artifacts/my-device/cve-2026-43499-app.so",
+        "size": 123720
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/pimpamebanihah/Root-My-Galaxy-Payloads/main/kernelsu/ksud_custom",
+        "size": 4803112
       }
     }
   ]
+}

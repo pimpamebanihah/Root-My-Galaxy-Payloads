@@ -1,8 +1,6 @@
-⁸{
-  "schemaVersion": 3,
+{
   "payloads": [
     {
-      "payloadId": "galaxy-s25-series-2026-06-07",
       "displayName": "Galaxy S25 series | Kernel 6.6.98",
       "models": [
         "SM-S9310",
@@ -50,9 +48,7 @@
     {
       "payloadId": "psq-S9370ZCS9CZG1",
       "displayName": "Galaxy S25 Edge | Kernel 6.6.98",
-      "models": [
-        "SM-S9370"
-      ],
+      "models": ["SM-S9370"],
       "kernelVersions": ["6.6.98"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/artifacts/psq-S9370ZCS9CZG1/cve-2026-43499-app.so",
@@ -177,20 +173,6 @@
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
         "size": 4758872
       }
-    },
-    {
-      "payloadId": "e3q-S921EXXS3CZE1-custom",
-      "displayName": "Galaxy S24 (India Snapdragon) | Custom Kernel 6.1.145",
-      "models": ["SM-S921E"],
-      "kernelVersions": ["6.1.145"],
-      "exploit": {
-        "url": "https://raw.githubusercontent.com/pimpamebanihah/Root-My-Galaxy-Payloads/main/artifacts/my-device/cve-2026-43499-app.so",
-        "size": 123720
-      },
-      "kernelsu": {
-        "url": "https://raw.githubusercontent.com/pimpamebanihah/Root-My-Galaxy-Payloads/main/kernelsu/ksud_custom",
-        "size": 4803112
-       }
     },
     {
       "payloadId": "e3q-S921EXXS3CZE1-custom",
